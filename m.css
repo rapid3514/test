@@ -22,5 +22,8 @@
 .logo{
     color: #ff7200;
     font-size: 35px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
 }
